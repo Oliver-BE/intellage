@@ -25,8 +25,11 @@ Intellage will take a folder containing numerous jpg images and use the images w
 To run a quick test of Intellage, navigate into the folder `images` and select `1000_images` as the input folder of images and select a photo out of the `template_images` folder for the template image 
 
 
-## Example Output 
+## Example Outputs 
 ![image](example_creations/afghangirl_lowres.jpg)
+![image](example_creations/isaac_lowres.jpg)
+![image](example_creations/sarah_lowres.jpg)
+![image](example_creations/sam_lowres.jpg)
 
 ## License
 
