@@ -26,6 +26,9 @@ To run a quick test of Intellage, navigate into the folder `images` and select `
 
 
 ## Example Outputs 
+
+The below outputs were created with a folder of 26,000 stock jpg images:
+
 ![image](example_creations/afghangirl_lowres.jpg)
 ![image](example_creations/isaac_lowres.jpg)
 ![image](example_creations/sarah_lowres.jpg)
