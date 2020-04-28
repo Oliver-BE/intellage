@@ -4,9 +4,9 @@ An intelligent collage creator built with Java
 
 ## Usage
 
-This program will take a folder containing numerous jpg images and use the images within the folder to recreate an image of your choice. 
+Intellage will take a folder containing numerous jpg images and use the images within the folder to recreate an image of your choice
 
-How to run:
+**How to run:**
 1. Open terminal and change directory to the src folder within the Intellage folder
 2. Enter the command: javac *.java
 3. Enter the command: java Main
@@ -16,7 +16,7 @@ How to run:
 7. Monitor the terminal for updates as to the progress of the program
 8. The product image will show up within the original window when complete and a copy of it will be saved to the folder containing jpgs you selected originally under the name finalImage.jpg
 
-For Best Results: 
+**For best results:**
 - Make your template image of a 1:1 aspect ratio
 - Make your template image not too large and not too small (500 x 500 works great)
 - Make sure your template image is larger than 100 x 100!
