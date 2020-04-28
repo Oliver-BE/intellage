@@ -26,7 +26,7 @@ To run a quick test of Intellage, navigate into the folder `images` and select `
 
 
 ## Example Output 
-![image](example_creations/afghangirl_highres.jpg)
+![image](example_creations/afghangirl_lowres.jpg)
 
 ## License
 
