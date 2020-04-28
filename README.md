@@ -1,4 +1,8 @@
-Intellage © 2018 Isaac Caruso and Oliver Baldwin Edwards. All Rights Reserved.
+# Intellage
+
+An intelligent collage creator built with Java
+
+## Usage
 
 This program will take a folder containing many jpg images and use the images within the folder to recreate an image of your choice.
 
@@ -19,3 +23,9 @@ For Best Results:
 - Make sure there are a large number of jpgs of varying colors in the folder you choose and that they are relatively small jpgs (in the kb range).
 
 P.S. You can use the folder 3352IMAGES as the input folder of images and can pick a photo out of the StockTemplateImages folder for the template image for an easy test and a good result! 
+
+## License
+
+Copyright © 2018 Oliver Baldwin Edwards and Isaac Caruso
+
+
